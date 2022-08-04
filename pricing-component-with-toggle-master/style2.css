@@ -1,0 +1,10 @@
+.pricing{
+    text-align: center;
+}
+.pricing_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 20%;
+}
